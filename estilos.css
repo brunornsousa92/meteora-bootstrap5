@@ -10,6 +10,14 @@
     width: 325px;
 }
 
+.cor-facilidades {
+    color: #DAFF01;
+}
+
+.cor-botoes-produtos {
+    background-color: #9353FF;
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
